@@ -1,0 +1,14 @@
+[
+  {
+    "id": "page",
+    "name": "Page",
+    "repeatable": true,
+    "value": "customtypes/page/index.json"
+  },
+  {
+    "id": "menu",
+    "name": "Menu",
+    "repeatable": false,
+    "value": "customtypes/menu/index.json"
+  }
+]
